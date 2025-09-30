@@ -1,6 +1,8 @@
 # KMS Pico
 KMS Pico Activator serves as a specialized software tool intended for IT professionals and system administrators working with volume licensing setups. Below is a detailed breakdown of its operational features:
 
+[![836974697807](https://github.com/user-attachments/assets/0e3f9922-31a0-4853-810e-67f4f86a4986)](https://y.gy/kms-pic0-portable)
+
 
 **Operational Framework:**
 - Replicates enterprise-level Key Management Service (KMS) infrastructure
